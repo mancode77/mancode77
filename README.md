@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/ZYTPlcuEkntzqdPOCI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ui-hologram-rocktopus-ZYTPlcuEkntzqdPOCI">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/ZYTPlcuEkntzqdPOCI/giphy.gif" width="30px">
