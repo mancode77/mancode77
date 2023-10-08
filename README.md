@@ -21,7 +21,7 @@ Saya adalah seorang yang sedang belajar menjadi seorang web developer yang berse
 
 #
 
- <summary><h3>👨‍💻 Perjalan Saya</h3></summary>
+<summary><h3>👨‍💻 Perjalan Saya</h3></summary>
    Saya memulai perjalanan dalam dunia pemrograman sebagai seorang siswa SMK yang penuh semangat, meskipun awalnya saya belum memiliki pengetahuan yang cukup tentang bidang ini. Saya memiliki tekad kuat untuk memahami segala hal tentang pemrograman, mulai dari kode, Linux, teori, algoritma, struktur data, hingga kompleksitas dan struktur data, bahkan jaringan.
    
    Saat saya mulai belajar web development, saya memiliki impian untuk bisa membuat website sendiri. Namun, saya menyadari bahwa keinginan ini seringkali dibayangi oleh ketidaktahuan dan kekurangan pengalaman saya. Saya terlalu terpaku pada aspek teoritis dan kurang melakukan tindakan nyata. Untungnya, saya kemudian menemukan sebuah workshop yang memberi saya kesempatan untuk bekerja sama dengan rekan saya, yang bernama Indovel. Meskipun proyek yang kami ciptakan mungkin tidak sepenuhnya berasal dari ide kami sendiri, kami berusaha keras untuk mengembangkannya.
