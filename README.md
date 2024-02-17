@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-Saya adalah seorang yang sedang belajar menjadi seorang web developer yang bersemangat dan penuh dedikasi. Saat ini, saya sedang berkuliah di Politeknik Pratama Mulia dan berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan web. Saya memiliki keinginan kuat untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang pengembangan web.
+Saya adalah seorang yang sedang belajar menjadi seorang web developer yang bersemangat. Saat ini, saya sedang berkuliah di Politeknik Pratama Mulia dan berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan web. Saya memiliki keinginan kuat untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang pengembangan web.
 
 ---
 
