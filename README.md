@@ -1,8 +1,8 @@
-# Mancode77 | Aji Maulana ( Nama ASELI )
-
-**`Web Developer`**
+# Saya Aji Maulana
 
 Saya adalah seorang yang sedang belajar menjadi seorang web developer yang bersemangat. Saat ini, saya sedang berkuliah di Politeknik Pratama Mulia dan berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan web. Saya memiliki keinginan kuat untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang pengembangan web.
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedln](https://www.linkedin.com/in/aji-maulana-0bb20921b/)
 
 ---
 
