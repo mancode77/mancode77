@@ -17,7 +17,9 @@ Saya adalah seorang yang sedang belajar menjadi seorang web developer yang berse
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+
 ### Proyek
+
 
 1. Web [Komunitas FE](https://mancode77.github.io/frontend-dev-portofolio/)
 2. Web [Indovel](https://mancode77.github.io/Indovel/)
